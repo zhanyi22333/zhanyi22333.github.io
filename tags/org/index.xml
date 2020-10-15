@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <title>org on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/org/</link>
+    <description>Recent content in org on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
       <link>http://localhost:1313/post/test/</link>
