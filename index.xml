@@ -5,7 +5,26 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on zy22333的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Apr 2021 21:58:26 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于hugo的使用</title>
+      <link>http://localhost:1313/post/%E5%85%B3%E4%BA%8Ehugo%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sun, 25 Apr 2021 21:58:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%85%B3%E4%BA%8Ehugo%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+      <description>hugo命令 hugo -D 建立静态页面，输出到./public ( 可以设置，但是没必要 ) hugo server -D 建立页面后，在本地 http://localhost:1313/ 可以测试</description>
+    </item>
+    
+    <item>
+      <title>关于 ox-hugo 的使用</title>
+      <link>http://localhost:1313/post/%E5%85%B3%E4%BA%8Eox-hugo%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sat, 24 Apr 2021 22:09:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%85%B3%E4%BA%8Eox-hugo%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+      <description>State &amp;ldquo;DONE&amp;rdquo; from &amp;ldquo;STARTED&amp;rdquo; [2021-04-24 Sat 22:09] 关于文件头 &amp;ldquo;#+hugo_base_dir: ~/blog&amp;rdquo; : hugo的根目录 &amp;ldquo;#+hugo_section: post&amp;rdquo; ： section的地址，我选用的这个博客主题要求我section地址为post,这样 文件就</description>
+    </item>
+    
     <item>
       <title>2020.10.22日记</title>
       <link>http://localhost:1313/post/2020_10_22_%E6%97%A5%E8%AE%B0/</link>
@@ -13,24 +32,6 @@
       
       <guid>http://localhost:1313/post/2020_10_22_%E6%97%A5%E8%AE%B0/</guid>
       <description>一些小事 最近又有些迷茫了。 我在准备pat考试，现在的话，明显感到自己的实力是有进步的，说实话，在今天之前，我感觉自己还不错。今天我做了一道3</description>
-    </item>
-    
-    <item>
-      <title>关于 ox-hugo 的使用</title>
-      <link>http://localhost:1313/post/%E5%85%B3%E4%BA%8Eox-hugo%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/%E5%85%B3%E4%BA%8Eox-hugo%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
-      <description>关于文件头 +hugo_base_dir: ~/blog : hugo的根目录 +hugo_section: post ： section的地址，我选用的这个博客主题要求我section地址为post,这样 文件就会输出到 ~/blog/content/post/ +hugo_auto_set_lastmod: t</description>
-    </item>
-    
-    <item>
-      <title>关于hugo的使用</title>
-      <link>http://localhost:1313/post/%E5%85%B3%E4%BA%8Ehugo%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/%E5%85%B3%E4%BA%8Ehugo%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
-      <description>hugo命令 hugo -D 建立静态页面，输出到./public ( 可以设置，但是没必要 ) hugo server -D 建立页面后，在本地 http://localhost:1313/ 可以测试</description>
     </item>
     
   </channel>
